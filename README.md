@@ -88,9 +88,13 @@
 
 ## PhD
 1- European Lab for Learning & Intelligent Systems https://ellis.eu
+
 2- Computer Science Research at Max Planck Institutes | Computer and Information Science Research Germany Europe https://www.cis.mpg.de
+
 3- Max-Planck-Institut für Informatik: CS@SAAR https://www.mpi-inf.mpg.de/cssaar
+
 4- IMPRS-IS International Max Planck Research School for Intelligent Systems https://imprs.is.mpg.de
+
 5- The Hybrid Intelligence Centre https://www.hybrid-intelligence-centre.nl
 
 ## Internships
