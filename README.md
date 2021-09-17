@@ -72,13 +72,15 @@
 2- https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/
 
 ## Collections
-1- https://github.com/duyguislakoglu/awesome-graph-ml
+1- https://deepmind.com/learning-resources
 
 2- https://madewithml.com 
 
 3- https://twitter.com/omarsar0 
 
 4- https://twitter.com/arunprakashml/status/1404759268717334529 
+
+5- https://github.com/duyguislakoglu/awesome-graph-ml
 
 ## Videos
 1- https://slideslive.com/38955135/geometric-deep-learning-the-erlangen-programme-of-ml 
