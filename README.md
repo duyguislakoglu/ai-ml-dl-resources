@@ -1,4 +1,4 @@
-# Artificial Intelligence Resources for different levels 
+# Artificial Intelligence Resources for Different Levels 
 
 ## General
 
